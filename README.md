@@ -6,11 +6,9 @@
 
 ## 🚀 Sobre mim
 
-Eaí! Prazer, eu sou o **Ryan Alexandrino**. Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**, com foco especial em **Desenvolvimento Back-End** e **Banco de Dados**.
+Eaí! Prazer, eu sou o **Ryan Alexandrino**. Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**, com foco especial em **Desenvolvimento Back-End** e **Ciência de Dados**.
 
-Atualmente estou mergulhado no mundo da programação, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho uma paixão especial por **Python** e **SQL**, além de estar explorando ferramentas como **PowerBI** e **Looker Studio** para análise de dados.
-
-Sou uma pessoa curiosa e dedicada, que adora resolver problemas complexos e entender como as coisas funcionam nos bastidores da tecnologia.
+Atualmente estou mergulhado no mundo da programação, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho uma predileção por **Python** e **SQL**, além de estar explorando ferramentas como **PowerBI** e **Looker Studio** para análise de dados.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -40,7 +38,7 @@ São Paulo, Brasil
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanalexandrino)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanalexandrino@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanalexandriino@gmail.com)
 
 ---
 
@@ -50,10 +48,10 @@ São Paulo, Brasil
 
 ## 🎯 Objetivos
 
-Estou sempre em busca de oportunidades para aplicar meus conhecimentos em projetos reais e contribuir com soluções inovadoras. Meu objetivo é me tornar um desenvolvedor back-end sólido e especialista em banco de dados.
+Estou sempre em busca de oportunidades para aplicar meus conhecimentos em projetos reais e contribuir com soluções inovadoras. Meu objetivo é me tornar um desenvolvedor back-end sólido e especialista em dados.
 
-No meu GitHub você encontrará projetos acadêmicos, experimentos pessoais e estudos práticos conforme vou evoluindo na minha jornada na programação!
+No meu GitHub você encontrará projetos acadêmicos e estudos práticos conforme vou evoluindo na minha jornada na programação!
 
 ---
 
-*"A tecnologia é melhor quando aproxima as pessoas"* 💡
+*"Controlar os dados é o príncipio para alcançar os resultados!"* 💡
