@@ -1,6 +1,6 @@
-# 👨‍💻 Ryan Alexandrino
+# 🧠 Ryan Alexandrino
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Back-End e Banco de Dados**
+**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Back-End e Ciência de Dados**
 
 ---
 
